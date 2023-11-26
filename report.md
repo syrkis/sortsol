@@ -1,5 +1,5 @@
 ---
-title: Swarm Optimised Robust Target Strategy Over Land
+title: Swarm Optimised Robust Target Search Over Land
 author: Noah Syrkis
 documentclass: article
 geometry: margin=3cm
