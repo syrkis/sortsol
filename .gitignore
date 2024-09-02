@@ -3,3 +3,8 @@ docs/
 .vscode/
 src/__pycache__
 report.pdf
+
+
+# Added by cargo
+
+/target
